@@ -1,0 +1,71 @@
+C:\Users\LiranBrolnizki\OneDrive - access fintech\Desktop\Recruitment\Test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.deps.json
+C:\Users\LiranBrolnizki\OneDrive - access fintech\Desktop\Recruitment\Test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.dll
+C:\Users\LiranBrolnizki\OneDrive - access fintech\Desktop\Recruitment\Test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.pdb
+C:\Users\LiranBrolnizki\OneDrive - access fintech\Desktop\Recruitment\Test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.csproj.AssemblyReference.cache
+C:\Users\LiranBrolnizki\OneDrive - access fintech\Desktop\Recruitment\Test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LiranBrolnizki\OneDrive - access fintech\Desktop\Recruitment\Test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.AssemblyInfoInputs.cache
+C:\Users\LiranBrolnizki\OneDrive - access fintech\Desktop\Recruitment\Test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.AssemblyInfo.cs
+C:\Users\LiranBrolnizki\OneDrive - access fintech\Desktop\Recruitment\Test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.csproj.CoreCompileInputs.cache
+C:\Users\LiranBrolnizki\OneDrive - access fintech\Desktop\Recruitment\Test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.dll
+C:\Users\LiranBrolnizki\OneDrive - access fintech\Desktop\Recruitment\Test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\refint\AF.AutomationTest.MatchingEngine.dll
+C:\Users\LiranBrolnizki\OneDrive - access fintech\Desktop\Recruitment\Test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.pdb
+C:\Users\LiranBrolnizki\OneDrive - access fintech\Desktop\Recruitment\Test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\ref\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Downloads\AutomationTest (2)\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.deps.json
+C:\Users\ErezMarziano\Downloads\AutomationTest (2)\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Downloads\AutomationTest (2)\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.pdb
+C:\Users\ErezMarziano\Downloads\AutomationTest (2)\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.csproj.AssemblyReference.cache
+C:\Users\ErezMarziano\Downloads\AutomationTest (2)\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErezMarziano\Downloads\AutomationTest (2)\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.AssemblyInfoInputs.cache
+C:\Users\ErezMarziano\Downloads\AutomationTest (2)\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.AssemblyInfo.cs
+C:\Users\ErezMarziano\Downloads\AutomationTest (2)\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.csproj.CoreCompileInputs.cache
+C:\Users\ErezMarziano\Downloads\AutomationTest (2)\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Downloads\AutomationTest (2)\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\refint\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Downloads\AutomationTest (2)\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.pdb
+C:\Users\ErezMarziano\Downloads\AutomationTest (2)\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\ref\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Desktop\New folder\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.deps.json
+C:\Users\ErezMarziano\Desktop\New folder\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Desktop\New folder\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.pdb
+C:\Users\ErezMarziano\Desktop\New folder\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.csproj.AssemblyReference.cache
+C:\Users\ErezMarziano\Desktop\New folder\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErezMarziano\Desktop\New folder\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.AssemblyInfoInputs.cache
+C:\Users\ErezMarziano\Desktop\New folder\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.AssemblyInfo.cs
+C:\Users\ErezMarziano\Desktop\New folder\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.csproj.CoreCompileInputs.cache
+C:\Users\ErezMarziano\Desktop\New folder\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Desktop\New folder\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\refint\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Desktop\New folder\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.pdb
+C:\Users\ErezMarziano\Desktop\New folder\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\ref\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Desktop\Automation test - Version 3\Automation test - Version 2\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.deps.json
+C:\Users\ErezMarziano\Desktop\Automation test - Version 3\Automation test - Version 2\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Desktop\Automation test - Version 3\Automation test - Version 2\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.pdb
+C:\Users\ErezMarziano\Desktop\Automation test - Version 3\Automation test - Version 2\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.csproj.AssemblyReference.cache
+C:\Users\ErezMarziano\Desktop\Automation test - Version 3\Automation test - Version 2\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErezMarziano\Desktop\Automation test - Version 3\Automation test - Version 2\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.AssemblyInfoInputs.cache
+C:\Users\ErezMarziano\Desktop\Automation test - Version 3\Automation test - Version 2\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.AssemblyInfo.cs
+C:\Users\ErezMarziano\Desktop\Automation test - Version 3\Automation test - Version 2\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.csproj.CoreCompileInputs.cache
+C:\Users\ErezMarziano\Desktop\Automation test - Version 3\Automation test - Version 2\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Desktop\Automation test - Version 3\Automation test - Version 2\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\refint\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Desktop\Automation test - Version 3\Automation test - Version 2\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.pdb
+C:\Users\ErezMarziano\Desktop\Automation test - Version 3\Automation test - Version 2\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\ref\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Desktop\Automation test - Version 4\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.deps.json
+C:\Users\ErezMarziano\Desktop\Automation test - Version 4\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Desktop\Automation test - Version 4\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.pdb
+C:\Users\ErezMarziano\Desktop\Automation test - Version 4\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.csproj.AssemblyReference.cache
+C:\Users\ErezMarziano\Desktop\Automation test - Version 4\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErezMarziano\Desktop\Automation test - Version 4\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.AssemblyInfoInputs.cache
+C:\Users\ErezMarziano\Desktop\Automation test - Version 4\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.AssemblyInfo.cs
+C:\Users\ErezMarziano\Desktop\Automation test - Version 4\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.csproj.CoreCompileInputs.cache
+C:\Users\ErezMarziano\Desktop\Automation test - Version 4\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Desktop\Automation test - Version 4\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\refint\AF.AutomationTest.MatchingEngine.dll
+C:\Users\ErezMarziano\Desktop\Automation test - Version 4\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.pdb
+C:\Users\ErezMarziano\Desktop\Automation test - Version 4\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\ref\AF.AutomationTest.MatchingEngine.dll
+E:\Users\PC\Downloads\TEMP\Automation test (1)\Automation test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.deps.json
+E:\Users\PC\Downloads\TEMP\Automation test (1)\Automation test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.dll
+E:\Users\PC\Downloads\TEMP\Automation test (1)\Automation test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\bin\Debug\net7.0\AF.AutomationTest.MatchingEngine.pdb
+E:\Users\PC\Downloads\TEMP\Automation test (1)\Automation test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\PC\Downloads\TEMP\Automation test (1)\Automation test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.AssemblyInfoInputs.cache
+E:\Users\PC\Downloads\TEMP\Automation test (1)\Automation test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.AssemblyInfo.cs
+E:\Users\PC\Downloads\TEMP\Automation test (1)\Automation test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.csproj.CoreCompileInputs.cache
+E:\Users\PC\Downloads\TEMP\Automation test (1)\Automation test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.dll
+E:\Users\PC\Downloads\TEMP\Automation test (1)\Automation test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\refint\AF.AutomationTest.MatchingEngine.dll
+E:\Users\PC\Downloads\TEMP\Automation test (1)\Automation test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\AF.AutomationTest.MatchingEngine.pdb
+E:\Users\PC\Downloads\TEMP\Automation test (1)\Automation test\AF.AutomationTest.MatchingEngine\AF.AutomationTest.MatchingEngine\obj\Debug\net7.0\ref\AF.AutomationTest.MatchingEngine.dll
